@@ -6,23 +6,23 @@ Abstract the process of instantiation, the process of generating classes and obj
 
 ### Abstract factory
 
-![abstract factory image](../images/abstract_factory.png =250x)
+![<img width="250">abstract factory image</img>](../images/abstract_factory.png )
 
 ### Builder
 
-![builder image](../images/builder.png =250x)
+![builder image](../images/builder.png )
 
 ### Factory method
 
-![factory method image](../images/factory_method.png =250x)
+![factory method image](../images/factory_method.png )
 
 ### Prototype
 
-![prototype method image](../images/prototype.png =250x)
+![prototype method image](../images/prototype.png )
 
 ### Singleton
 
-![singleton image](../images/singleton.png =250x)
+![singleton image](../images/singleton.png )
 
 ## Structural patterns
 
@@ -30,31 +30,31 @@ Examine how classes and objects form more complexive structures
 
 ### Adapter
 
-![adapter image](../images/adapter.png =250x)
+![adapter image](../images/adapter.png )
 
 ### Bridge
 
-![bridge image](../images/bridge.png =250x)
+![bridge image](../images/bridge.png )
 
 ### Composite
 
-![composite image](../images/composite.png =250x)
+![composite image](../images/composite.png )
 
 ### Decorator
 
-![decorator image](../images/decorator.png =250x)
+![decorator image](../images/decorator.png )
 
 ### Facade
 
-![facade image](../images/facade.png =250x)
+![facade image](../images/facade.png )
 
 ### Flyweight
 
-![flyweight image](../images/flyweight.png =250x)
+![flyweight image](../images/flyweight.png )
 
 ### Proxy
 
-![proxy image](../images/proxy.png =250x)
+![proxy image](../images/proxy.png )
 
 ## Behaviaoral patterns
 
@@ -62,44 +62,44 @@ Define algorithms and the intersaction between calsses and objects
 
 ### Chain of responsability
 
-![chain of responsability image](../images/chain_of_responsibility.png =250x)
+![chain of responsability image](../images/chain_of_responsibility.png )
 
 ### Command
 
-![command image](../images/command.png =250x)
+![command image](../images/command.png )
 
 ### Interpreter
 
-![interpreter image](../images/interpreter.png =250x)
+![interpreter image](../images/interpreter.png )
 
 ### Iterator
 
-![iterator image](../images/iterator.png =250x)
+![iterator image](../images/iterator.png )
 
 ### Mediator
 
-![mediator image](../images/mediator.png =250x)
+![mediator image](../images/mediator.png )
 
 ### Memento
 
-![memento image](../images/memento.png =250x)
+![memento image](../images/memento.png )
 
 ### Observer
 
-![observer image](../images/observer.png =250x)
+![observer image](../images/observer.png )
 
 ### State
 
-![state image](../images/state.png =250x)
+![state image](../images/state.png )
 
 ### Strategy
 
-![strategy image](../images/strategy.png =250x)
+![strategy image](../images/strategy.png )
 
 ### Template method
 
-![template method image](../images/template_method.png =250x)
+![template method image](../images/template_method.png )
 
 ### Visitor
 
-![visitor image](../images/visitor.png =250x)
+![visitor image](../images/visitor.png )

@@ -6,15 +6,15 @@ Abstract the process of instantiation, the process of generating classes and obj
 
 ### Abstract factory
 
-![abstract factory image](../images/abstract_factory.png  | width=100)
+![abstract factory image](../images/abstract_factory.png )
 
 ### Builder
 
-![builder image](../images/builder.png ){width=250}
+![builder image](../images/builder.png )
 
 ### Factory method
 
-![factory method image](../images/factory_method.png ){width=250}
+![factory method image](../images/factory_method.png )
 
 ### Prototype
 

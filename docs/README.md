@@ -6,7 +6,7 @@ Abstract the process of instantiation, the process of generating classes and obj
 
 ### Abstract factory
 
-![abstract factory image](../images/abstract_factory.png ){width=250}
+![abstract factory image](../images/abstract_factory.png  | width=100)
 
 ### Builder
 

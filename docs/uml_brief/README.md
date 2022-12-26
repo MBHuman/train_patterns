@@ -19,8 +19,12 @@ To add an attribute, click the Attributes section and then press ENTER. Type the
 
 
 5. Association A relationship between the members of two classifiers. For more information, see Properties of associations on UML class diagrams.
-    a. Aggregation An association representing a shared ownership relationship. The Aggregation property of the owner role is set to Shared.
-    b. Composition An Association representing a whole-part relationship. The Aggregation property of the owner role is set to Composite.
+
+
+5a. Aggregation An association representing a shared ownership relationship. The Aggregation property of the owner role is set to Shared.
+
+
+5b. Composition An Association representing a whole-part relationship. The Aggregation property of the owner role is set to Composite.
 
 
 6. Association Name The name of an association. The name can be left empty.
